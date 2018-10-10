@@ -1,0 +1,7 @@
+C:\Users\panos\Desktop\AFDEmp\C#\Exercise6\Exercise6\bin\Debug\Exercise6.exe.config
+C:\Users\panos\Desktop\AFDEmp\C#\Exercise6\Exercise6\bin\Debug\Exercise6.exe
+C:\Users\panos\Desktop\AFDEmp\C#\Exercise6\Exercise6\bin\Debug\Exercise6.pdb
+C:\Users\panos\Desktop\AFDEmp\C#\Exercise6\Exercise6\obj\Debug\Exercise6.csprojAssemblyReference.cache
+C:\Users\panos\Desktop\AFDEmp\C#\Exercise6\Exercise6\obj\Debug\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\panos\Desktop\AFDEmp\C#\Exercise6\Exercise6\obj\Debug\Exercise6.exe
+C:\Users\panos\Desktop\AFDEmp\C#\Exercise6\Exercise6\obj\Debug\Exercise6.pdb
