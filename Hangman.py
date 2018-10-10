@@ -1,3 +1,5 @@
+#WRITTEN IN PYTHON
+
 from random import choice
 
 pickedWord = []
